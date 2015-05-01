@@ -5,9 +5,10 @@ public class Player : MonoBehaviour {
 
 	public GameObject bullet;
 	private float speed = 35f;
+	private static Player _player;
 	// Use this for initialization
 	void Start () {
-	
+		_player = this;
 	}
 	
 	// Update is called once per frame
@@ -39,5 +40,15 @@ public class Player : MonoBehaviour {
 	{
 		endPoint -= startingPoint;
 		return Mathf.Atan2(endPoint.y, endPoint.x);
+	}
+
+	public static Player player{
+		get {
+			return _player;
+		}
+	}
+
+	public void takeHit(Enemy en){
+		print ("oweeee!!");
 	}
 }

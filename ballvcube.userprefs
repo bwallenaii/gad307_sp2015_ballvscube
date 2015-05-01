@@ -1,9 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\enenemy\Assets\EnemyZig.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Bullet.cs">
     <Files>
-      <File FileName="..\enenemy\Assets\Enemy.cs" Line="7" Column="30" />
-      <File FileName="..\enenemy\Assets\EnemyZig.cs" Line="11" Column="28" />
+      <File FileName="Assets\Enemy.cs" Line="46" Column="4" />
+      <File FileName="Assets\Bullet.cs" Line="50" Column="20" />
+      <File FileName="Assets\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Player.cs" Line="52" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
