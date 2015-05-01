@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\enenemy\Assets\EnemyZig.cs">
+    <Files>
+      <File FileName="..\enenemy\Assets\Enemy.cs" Line="7" Column="30" />
+      <File FileName="..\enenemy\Assets\EnemyZig.cs" Line="11" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
